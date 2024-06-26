@@ -1,3 +1,7 @@
+## Fernanda Kipper
+
+This project was designed by [Fernanda Kipper](https://www.youtube.com/@kipperdev) and developed by me following the video on YouTube that can be seen at this [link](https://youtu.be/6qbuuPM_de4?si=5mGyidypt9izrJIi).
+
 # LoginPage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
