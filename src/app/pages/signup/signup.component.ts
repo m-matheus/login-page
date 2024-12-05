@@ -38,8 +38,8 @@ export class SignupComponent {
 
   submit() {
     this.loginService.signup(this.signupForm.value.name, this.signupForm.value.email, this.signupForm.value.password).subscribe({
-      next: () => this.toastr.success("Login successful"),
-      error: () => this.toastr.error("Login failed")
+      next: () => this.toastr.success("Registered successfully"),
+      error: () => this.toastr.error("Registration failed")
     })
   }
 
